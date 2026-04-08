@@ -16,9 +16,6 @@ const Navbar = () => {
                 <div>
                     <Nav className='flex item-center'>
                         <NavLink to='/'><li className='px-2'>Home</li></NavLink>
-                        <NavLink to='/game'><li className='px-2'>Blog</li></NavLink>
-                        <NavLink to='/contact'><li className='px-2'>About</li></NavLink>
-                        <NavLink to='/contact'><li className='px-2'>Contact</li></NavLink>
                     </Nav>
                 </div>
 
